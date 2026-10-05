@@ -10,7 +10,7 @@ Live (after publishing): **https://gl2006.github.io/project-core-site/**
 - **Plain HTML / CSS / JS** — no build step, no framework.
 - **English + German** language toggle (saves the choice in `localStorage`).
 - **Self-hosted media** — key art, posters, screenshots and trailer thumbnails were pulled from the Microsoft Store, the itch.io page and the previous Google Site, so the site has no image hotlinks.
-- **Self-hosted fonts** — Orbitron and Rajdhani (SIL Open Font License).
+- **Self-hosted fonts** — Inter and Orbitron (SIL Open Font License).
 - **Privacy-friendly video** — trailers are click-to-play facades; the YouTube (nocookie) player is only loaded after a click.
 - **Lightbox gallery** for screenshots and posters (keyboard navigable).
 - Responsive, accessible (skip link, focus states, reduced-motion support) and SEO-ready (Open Graph, JSON-LD `VideoGame`).
@@ -23,7 +23,7 @@ project-core-site/
 ├── styles.css          # design system + layout
 ├── script.js           # i18n dictionaries + interactions
 ├── assets/
-│   ├── fonts/          # Orbitron + Rajdhani (woff2)
+│   ├── fonts/          # Inter + Orbitron (woff2)
 │   └── img/            # key art, posters, screenshots, trailer thumbs, icons
 ├── .nojekyll
 └── README.md
@@ -58,7 +58,7 @@ Any push to `main` updates the live site — no build step required.
 - Media retrieved from the [Microsoft Store listing](https://www.microsoft.com/store/apps/9NKZWT6JXHT6) and the
   [itch.io page](https://gl2006.itch.io/project-core); trailer previews from the
   [official YouTube channel](https://www.youtube.com/channel/UCeONUDfCebWWo4wY8hXiqIw).
-- Fonts: [Orbitron](https://fonts.google.com/specimen/Orbitron) & [Rajdhani](https://fonts.google.com/specimen/Rajdhani), SIL Open Font License.
+- Fonts: [Inter](https://fonts.google.com/specimen/Inter) & [Orbitron](https://fonts.google.com/specimen/Orbitron), SIL Open Font License.
 
 ## Related links
 

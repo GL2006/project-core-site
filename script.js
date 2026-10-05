@@ -15,7 +15,7 @@
   var I18N = {
     en: {
       'meta.title': 'Project CORE — Sci-fi Action Adventure by Gernot Lepschy',
-      'meta.description': 'Project CORE is an independently developed sci-fi action adventure set in 2053. Pilot futuristic aircraft, fight the mysterious Enemys and uncover the truth behind C.O.R.E. Available for Windows on the Microsoft Store and itch.io.',
+      'meta.description': 'Project CORE is an independently developed sci-fi action adventure set in 2053. Pilot futuristic aircraft, fight the mysterious Enemys and uncover the truth behind C.O.R.E. Released March 10, 2023 for Windows PC, available on the Microsoft Store and itch.io.',
 
       'a11y.skip': 'Skip to content',
 
@@ -33,8 +33,8 @@
       'hero.ctaStore': 'Microsoft Store',
       'hero.ctaItch': 'itch.io',
       'hero.demoLink': 'Play the free browser demo on Unity Play',
-      'hero.chip1': '2053',
       'hero.chip2': 'Windows PC',
+      'hero.chipRelease': 'Released March 10, 2023',
       'hero.chip3': 'Unity + Blender',
       'hero.chip4': 'Action · Adventure · RPG',
 
@@ -44,10 +44,10 @@
       'trailers.v1title': 'Version 2.0 Trailer',
       'trailers.v1desc': 'The official trailer of the Version 2.0 update.',
       'trailers.v1alt': 'Project CORE: Version 2.0 Trailer',
-      'trailers.v2title': 'Type X — Expansion Trailer',
+      'trailers.v2title': 'Type X: Expansion Trailer',
       'trailers.v2desc': 'A look at the Type X expansion, included with the itch.io edition.',
       'trailers.v2alt': 'Project CORE: Type X — Expansion Trailer',
-      'trailers.v3title': 'Another Mission — Short Film',
+      'trailers.v3title': 'Another Mission: Short Film',
       'trailers.v3desc': 'A cinematic short film set in the world of Project CORE.',
       'trailers.v3alt': 'Project CORE: Another Mission — Short Film',
       'trailers.note': 'Videos are streamed from YouTube. Clicking a preview loads the player.',
@@ -55,7 +55,7 @@
 
       'features.kicker': 'Gameplay',
       'features.title': 'Features',
-      'features.lead': 'An independently developed passion project — built by one developer, designed to feel like a full sci-fi adventure.',
+      'features.lead': 'An independently developed passion project, built by one developer and designed to feel like a full sci-fi adventure.',
       'features.f1title': 'Fast-paced 3D combat',
       'features.f1desc': 'Fight through missions with responsive action combat — on foot and in the air.',
       'features.f2title': 'Pilot futuristic aircraft',
@@ -67,11 +67,11 @@
       'features.f5title': 'Multiple endings',
       'features.f5desc': 'Your journey through the C.O.R.E. story can end in more than one way.',
       'features.f6title': 'Complete edition content',
-      'features.f6desc': 'The itch.io edition bundles the Type X expansion — extra story and levels at no additional cost.',
+      'features.f6desc': 'The itch.io edition bundles the Type X expansion, with extra story and levels at no additional cost.',
 
       'story.kicker': 'The year is 2053',
       'story.title': 'Humanity\u2019s last hope',
-      'story.p1': 'Twenty years ago, an incident brought humanity to the brink of destruction. Today, the truth is still buried — and the mysterious Enemys are back.',
+      'story.p1': 'Twenty years ago, an incident brought humanity to the brink of destruction. Today, the truth is still buried, and the mysterious Enemys are back.',
       'story.p2': 'As a pilot for the shady organization C.O.R.E., you are the world\u2019s last line of defense. Fly against impossible odds, uncover what really happened two decades ago, and do everything you can to prevent another catastrophe.',
       'story.p3': 'No place and no time is safe: from neon Mega-Cities to the open ocean, abandoned military bases and beyond the atmosphere.',
       'story.missionTitle': 'Your mission',
@@ -95,7 +95,7 @@
 
       'get.kicker': 'Available now',
       'get.title': 'Get the game',
-      'get.lead': 'Project CORE is available for Windows PC — or try the free demo right in your browser.',
+      'get.lead': 'Project CORE was released for Windows PC on March 10, 2023. Try the free demo right in your browser.',
       'get.msDesc': 'Project CORE for Windows PC.',
       'get.msBtn': 'Open Microsoft Store',
       'get.itchTag': 'Includes Type X expansion',
@@ -117,8 +117,8 @@
 
       'about.kicker': 'The developer',
       'about.title': 'About Gernot Lepschy',
-      'about.p1': 'Project CORE is an independently developed passion project by Gernot Lepschy — programmer, level designer and writer. Built with Unity and Blender, it aims to bring a unique and fresh experience to both experienced gamers and newcomers.',
-      'about.p2': 'From level design and programming to story and visuals, Project CORE is crafted by one developer — supported by the G.L. Studios name.',
+      'about.p1': 'Project CORE is an independently developed passion project by Gernot Lepschy, a programmer, level designer and writer. Built with Unity and Blender, it aims to bring a unique and fresh experience to both experienced gamers and newcomers.',
+      'about.p2': 'From level design and programming to story and visuals, Project CORE is crafted by one developer under the G.L. Studios name.',
       'about.portfolioBtn': 'Visit my portfolio',
       'about.ytBtn': 'YouTube channel',
       'about.alt': 'Project CORE — key art',
@@ -135,7 +135,7 @@
 
     de: {
       'meta.title': 'Project CORE — Sci-fi-Action-Abenteuer von Gernot Lepschy',
-      'meta.description': 'Project CORE ist ein unabhängig entwickeltes Sci-fi-Action-Abenteuer aus dem Jahr 2053. Steuere futuristische Flugzeuge, stelle dich den mysteriösen Enemys und lüfte das Geheimnis hinter C.O.R.E. Für Windows im Microsoft Store und auf itch.io erhältlich.',
+      'meta.description': 'Project CORE ist ein unabhängig entwickeltes Sci-fi-Action-Abenteuer aus dem Jahr 2053. Steuere futuristische Flugzeuge, stelle dich den mysteriösen Enemys und lüfte das Geheimnis hinter C.O.R.E. Erschienen am 10. März 2023 für Windows-PC, erhältlich im Microsoft Store und auf itch.io.',
 
       'a11y.skip': 'Zum Inhalt springen',
 
@@ -153,8 +153,8 @@
       'hero.ctaStore': 'Microsoft Store',
       'hero.ctaItch': 'itch.io',
       'hero.demoLink': 'Kostenlose Browser-Demo auf Unity Play spielen',
-      'hero.chip1': '2053',
       'hero.chip2': 'Windows-PC',
+      'hero.chipRelease': 'Erschienen am 10. März 2023',
       'hero.chip3': 'Unity + Blender',
       'hero.chip4': 'Action · Abenteuer · RPG',
 
@@ -164,10 +164,10 @@
       'trailers.v1title': 'Version-2.0-Trailer',
       'trailers.v1desc': 'Der offizielle Trailer zum Version-2.0-Update.',
       'trailers.v1alt': 'Project CORE: Version-2.0-Trailer',
-      'trailers.v2title': 'Type X — Expansion-Trailer',
+      'trailers.v2title': 'Type X: Expansion-Trailer',
       'trailers.v2desc': 'Ein Blick auf die Type-X-Expansion, enthalten in der itch.io-Version.',
       'trailers.v2alt': 'Project CORE: Type X — Expansion-Trailer',
-      'trailers.v3title': 'Another Mission — Kurzfilm',
+      'trailers.v3title': 'Another Mission: Kurzfilm',
       'trailers.v3desc': 'Ein cineastischer Kurzfilm aus der Welt von Project CORE.',
       'trailers.v3alt': 'Project CORE: Another Mission — Kurzfilm',
       'trailers.note': 'Die Videos werden von YouTube gestreamt. Ein Klick auf die Vorschau lädt den Player.',
@@ -175,7 +175,7 @@
 
       'features.kicker': 'Gameplay',
       'features.title': 'Features',
-      'features.lead': 'Ein unabhängig entwickeltes Passion-Projekt — von einem Entwickler gebaut, inszeniert wie ein großes Sci-fi-Abenteuer.',
+      'features.lead': 'Ein unabhängig entwickeltes Passion-Projekt, gebaut von einem Entwickler und inszeniert wie ein großes Sci-fi-Abenteuer.',
       'features.f1title': 'Rasantes 3D-Kampfsystem',
       'features.f1desc': 'Kämpfe dich in flotten Action-Gefechten durch die Missionen — zu Fuß und in der Luft.',
       'features.f2title': 'Futuristische Flugzeuge steuern',
@@ -187,11 +187,11 @@
       'features.f5title': 'Mehrere Enden',
       'features.f5desc': 'Die Geschichte rund um C.O.R.E. kann auf mehr als eine Weise enden.',
       'features.f6title': 'Komplette Inhalte',
-      'features.f6desc': 'Die itch.io-Version enthält die Type-X-Expansion — zusätzliche Story und Level ohne Aufpreis.',
+      'features.f6desc': 'Die itch.io-Version enthält die Type-X-Expansion, mit zusätzlicher Story und neuen Leveln ohne Aufpreis.',
 
       'story.kicker': 'Das Jahr 2053',
       'story.title': 'Die letzte Hoffnung der Menschheit',
-      'story.p1': 'Vor zwanzig Jahren brachte ein Vorfall die Menschheit an den Rand der Auslöschung. Noch heute ist die Wahrheit verschüttet — und die mysteriösen Enemys sind zurück.',
+      'story.p1': 'Vor zwanzig Jahren brachte ein Vorfall die Menschheit an den Rand der Auslöschung. Noch heute ist die Wahrheit verschüttet, und die mysteriösen Enemys sind zurück.',
       'story.p2': 'Als Pilot der zwielichtigen Organisation C.O.R.E. bist du die letzte Verteidigungslinie der Welt. Kämpfe gegen alle Widerstände, finde heraus, was damals wirklich geschah, und verhindere eine zweite Katastrophe.',
       'story.p3': 'Kein Ort und keine Zeit ist sicher: von den Neon-Mega-Cities über das offene Meer und verlassene Militärbasen bis hinaus über die Atmosphäre.',
       'story.missionTitle': 'Deine Mission',
@@ -215,7 +215,7 @@
 
       'get.kicker': 'Jetzt erhältlich',
       'get.title': 'Hol dir das Spiel',
-      'get.lead': 'Project CORE ist für Windows-PC erhältlich — oder teste die kostenlose Demo direkt im Browser.',
+      'get.lead': 'Project CORE ist am 10. März 2023 für Windows-PC erschienen. Teste auch die kostenlose Demo direkt im Browser.',
       'get.msDesc': 'Project CORE für Windows-PC.',
       'get.msBtn': 'Microsoft Store öffnen',
       'get.itchTag': 'Enthält Type-X-Expansion',
@@ -237,8 +237,8 @@
 
       'about.kicker': 'Der Entwickler',
       'about.title': 'Über Gernot Lepschy',
-      'about.p1': 'Project CORE ist ein unabhängig entwickeltes Passion-Projekt von Gernot Lepschy — Programmierer, Level-Designer und Autor. Entwickelt mit Unity und Blender, soll es erfahrenen Spielern und Neueinsteigern gleichermaßen ein frisches Erlebnis bieten.',
-      'about.p2': 'Von Level-Design und Programmierung bis hin zu Story und Grafik: Project CORE entsteht aus einer Hand — unter dem Namen G.L. Studios.',
+      'about.p1': 'Project CORE ist ein unabhängig entwickeltes Passion-Projekt vom Programmierer, Level-Designer und Autor Gernot Lepschy. Entwickelt mit Unity und Blender, soll es erfahrenen Spielern und Neueinsteigern gleichermaßen ein frisches Erlebnis bieten.',
+      'about.p2': 'Von Level-Design und Programmierung bis hin zu Story und Grafik: Project CORE entsteht aus einer Hand, unter dem Namen G.L. Studios.',
       'about.portfolioBtn': 'Zu meinem Portfolio',
       'about.ytBtn': 'YouTube-Kanal',
       'about.alt': 'Project CORE — Key Art',
