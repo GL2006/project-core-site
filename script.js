@@ -47,7 +47,7 @@
 
       'trailers.kicker': 'Watch',
       'trailers.title': 'Trailers & Film',
-      'trailers.lead': 'The Version 2.0 trailer, the Type X expansion trailer and the cinematic short film.',
+      'trailers.lead': 'Watch the Version 2.0 trailer, the Type X expansion trailer and the cinematic short film.',
       'trailers.v1title': 'Version 2.0 Trailer',
       'trailers.v1desc': 'The official trailer of the Version 2.0 update.',
       'trailers.v1alt': 'Project CORE: Version 2.0 Trailer',
@@ -62,7 +62,7 @@
 
       'features.kicker': 'Gameplay',
       'features.title': 'Features',
-      'features.lead': 'An independently developed passion project, built by one developer and designed to feel like a full sci-fi adventure.',
+      'features.lead': 'An independent passion project, built by one developer to feel like a full sci-fi adventure.',
       'features.f1title': 'Fast-paced 3D combat',
       'features.f1desc': 'Fight through missions with responsive action combat — on foot and in the air.',
       'features.f2title': 'Pilot futuristic aircraft',
@@ -72,9 +72,9 @@
       'features.f4title': 'Explore a world under threat',
       'features.f4desc': 'Missions take you to Mega-Cities, the ocean, abandoned military bases and into orbit.',
       'features.f5title': 'Multiple endings',
-      'features.f5desc': 'Your journey through the C.O.R.E. story can end in more than one way.',
+      'features.f5desc': 'The C.O.R.E. story can end in more than one way.',
       'features.f6title': 'Complete edition content',
-      'features.f6desc': 'The itch.io edition bundles the Type X expansion, with extra story and levels at no additional cost.',
+      'features.f6desc': 'The itch.io edition bundles the Type X expansion: extra story and levels at no additional cost.',
 
       'story.kicker': 'The year is 2053',
       'story.title': 'Humanity\u2019s last hope',
@@ -124,7 +124,7 @@
 
       'about.kicker': 'The developer',
       'about.title': 'About Gernot Lepschy',
-      'about.p1': 'Project CORE is an independently developed passion project by Gernot Lepschy, a programmer, level designer and writer. Built with Unity and Blender, it aims to bring a unique and fresh experience to both experienced gamers and newcomers.',
+      'about.p1': 'Project CORE is an independently developed passion project by Gernot Lepschy, a programmer, level designer and writer. Built with Unity and Blender, it aims to offer a fresh experience to both veteran players and newcomers.',
       'about.p2': 'From level design and programming to story and visuals, Project CORE is crafted by one developer under the G.L. Studios name.',
       'about.portfolioBtn': 'Visit my portfolio',
       'about.ytBtn': 'YouTube channel',
