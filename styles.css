@@ -131,6 +131,17 @@ ul { list-style: none; margin: 0; padding: 0; }
   margin: 0 0 0.7rem;
 }
 
+.kicker::before {
+  content: "";
+  display: inline-block;
+  width: 18px;
+  height: 2px;
+  margin-right: 0.6rem;
+  vertical-align: middle;
+  background: var(--accent);
+  border-radius: 2px;
+}
+
 .section-head h2 {
   font-size: clamp(1.55rem, 3vw, 2.15rem);
   font-weight: 800;
@@ -155,7 +166,7 @@ ul { list-style: none; margin: 0; padding: 0; }
   font-weight: 600;
   line-height: 1.2;
   cursor: pointer;
-  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease, transform 0.2s ease, box-shadow 0.2s ease;
   white-space: nowrap;
 }
 
@@ -165,7 +176,12 @@ ul { list-style: none; margin: 0; padding: 0; }
   background: var(--accent);
   color: var(--white);
 }
-.btn-primary:hover { background: var(--accent-hover); color: var(--white); }
+.btn-primary:hover {
+  background: var(--accent-hover);
+  color: var(--white);
+  transform: translateY(-1px);
+  box-shadow: 0 10px 24px rgba(79, 141, 255, 0.28);
+}
 
 .btn-store,
 .btn-ghost {
@@ -334,7 +350,10 @@ body.nav-open .nav-toggle span:nth-child(3) { transform: translateY(-7px) rotate
   color: var(--white);
 }
 
-.hero-title span { color: var(--accent); }
+.hero-title span {
+  color: var(--accent);
+  text-shadow: 0 0 28px rgba(79, 141, 255, 0.45);
+}
 
 .hero-tagline {
   font-size: clamp(1.02rem, 1.5vw, 1.18rem);
@@ -490,10 +509,15 @@ body.nav-open .nav-toggle span:nth-child(3) { transform: translateY(-7px) rotate
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  transition: border-color 0.15s ease, background 0.15s ease;
+  transition: border-color 0.2s ease, background 0.2s ease, transform 0.25s ease, box-shadow 0.25s ease;
 }
 
-.feature-card:hover { border-color: var(--border-strong); background: var(--surface-hover); }
+.feature-card:hover {
+  border-color: var(--border-strong);
+  background: var(--surface-hover);
+  transform: translateY(-3px);
+  box-shadow: var(--shadow);
+}
 
 .feature-icon {
   display: inline-grid;
