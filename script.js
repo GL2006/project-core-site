@@ -15,7 +15,7 @@
   var I18N = {
     en: {
       'meta.title': 'Project CORE — Sci-fi Action Adventure by Gernot Lepschy',
-      'meta.description': 'Project CORE is an independently developed sci-fi action adventure set in 2053. Pilot futuristic aircraft, fight the mysterious Enemys and uncover the truth behind C.O.R.E. Released March 10, 2023 for Windows PC, available on the Microsoft Store and itch.io.',
+      'meta.description': 'Project CORE is an independent sci-fi action adventure set in 2053. Pilot futuristic aircraft and uncover the truth behind C.O.R.E. Available for Windows PC.',
 
       'a11y.skip': 'Skip to content',
       'a11y.facts': 'Game facts',
@@ -142,7 +142,7 @@
 
     de: {
       'meta.title': 'Project CORE — Sci-fi-Action-Abenteuer von Gernot Lepschy',
-      'meta.description': 'Project CORE ist ein unabhängig entwickeltes Sci-fi-Action-Abenteuer aus dem Jahr 2053. Steuere futuristische Flugzeuge, stelle dich den mysteriösen Enemys und lüfte das Geheimnis hinter C.O.R.E. Erschienen am 10. März 2023 für Windows-PC, erhältlich im Microsoft Store und auf itch.io.',
+      'meta.description': 'Project CORE: unabhängiges Sci-fi-Action-Abenteuer aus dem Jahr 2053. Steuere futuristische Flugzeuge und lüfte das Geheimnis hinter C.O.R.E. Für Windows-PC.',
 
       'a11y.skip': 'Zum Inhalt springen',
       'a11y.facts': 'Spielfakten',
