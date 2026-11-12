@@ -206,7 +206,7 @@ ul { list-style: none; margin: 0; padding: 0; }
   display: flex;
   align-items: center;
   gap: 1.4rem;
-  width: min(1240px, 94vw);
+  width: min(1140px, 92vw);
 }
 
 .brand {
@@ -322,7 +322,7 @@ body.nav-open .nav-toggle span:nth-child(3) { transform: translateY(-7px) rotate
     linear-gradient(90deg, rgba(13, 17, 23, 0.85) 0%, rgba(13, 17, 23, 0.35) 55%, rgba(13, 17, 23, 0.2) 100%);
 }
 
-.hero-content { position: relative; z-index: 2; max-width: 720px; }
+.hero-content { position: relative; z-index: 2; }
 
 .hero-title {
   font-family: var(--font-display);
@@ -550,6 +550,7 @@ body.nav-open .nav-toggle span:nth-child(3) { transform: translateY(-7px) rotate
 .gallery-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  grid-auto-flow: row dense;
   gap: 0.8rem;
 }
 
