@@ -350,11 +350,17 @@
   var header = document.getElementById('site-header');
   var navToggle = document.getElementById('nav-toggle');
   var backToTop = document.getElementById('back-to-top');
+  var progressBar = document.getElementById('scroll-progress');
 
   function onScroll() {
     var y = window.scrollY || window.pageYOffset;
     if (header) header.classList.toggle('scrolled', y > 30);
     if (backToTop) backToTop.classList.toggle('show', y > 640);
+    if (progressBar) {
+      var max = document.documentElement.scrollHeight - window.innerHeight;
+      var ratio = max > 0 ? Math.min(1, Math.max(0, y / max)) : 0;
+      progressBar.style.transform = 'scaleX(' + ratio.toFixed(4) + ')';
+    }
   }
   window.addEventListener('scroll', onScroll, { passive: true });
   onScroll();

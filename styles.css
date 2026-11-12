@@ -995,6 +995,21 @@ body.nav-open .nav-toggle span:nth-child(3) { transform: translateY(-7px) rotate
 .lightbox-prev { left: 1.1rem; top: 50%; transform: translateY(-50%); }
 .lightbox-next { right: 1.1rem; top: 50%; transform: translateY(-50%); }
 
+/* ---------- Scroll progress (HUD-style bar under the header) ---------- */
+.scroll-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  z-index: 101;
+  pointer-events: none;
+  background: linear-gradient(90deg, var(--red), var(--cyan));
+  box-shadow: 0 0 10px var(--cyan-glow);
+  transform-origin: left center;
+  transform: scaleX(0);
+}
+
 /* ---------- Back to top ---------- */
 .back-to-top {
   position: fixed;
