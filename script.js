@@ -79,7 +79,7 @@
       'story.kicker': 'The year is 2053',
       'story.title': 'Humanity\u2019s last hope',
       'story.p1': 'Twenty years ago, an incident brought humanity to the brink of destruction. Today, the truth is still buried, and the mysterious Enemys are back.',
-      'story.p2': 'As a pilot for the shady organization C.O.R.E., you are the world\u2019s last line of defense. Fly against impossible odds, uncover what really happened two decades ago, and do everything you can to prevent another catastrophe.',
+      'story.p2': 'As a pilot for the shady organization C.O.R.E., you are the world\u2019s last line of defense. Fly against impossible odds, uncover what really happened two decades ago, and do everything to prevent another catastrophe.',
       'story.p3': 'No place and no time is safe: from neon Mega-Cities to the open ocean, abandoned military bases and beyond the atmosphere.',
       'story.missionTitle': 'Your mission',
       'story.m1': 'Defend Earth from the Enemys',
@@ -174,7 +174,7 @@
 
       'trailers.kicker': 'Ansehen',
       'trailers.title': 'Trailer & Film',
-      'trailers.lead': 'Der Version-2.0-Trailer, der Trailer zur Type-X-Expansion und der cineastische Kurzfilm.',
+      'trailers.lead': 'Schau dir den Version-2.0-Trailer, den Trailer zur Type-X-Expansion und den cineastischen Kurzfilm an.',
       'trailers.v1title': 'Version-2.0-Trailer',
       'trailers.v1desc': 'Der offizielle Trailer zum Version-2.0-Update.',
       'trailers.v1alt': 'Project CORE: Version-2.0-Trailer',
@@ -189,7 +189,7 @@
 
       'features.kicker': 'Gameplay',
       'features.title': 'Features',
-      'features.lead': 'Ein unabhängig entwickeltes Passion-Projekt, gebaut von einem Entwickler und inszeniert wie ein großes Sci-fi-Abenteuer.',
+      'features.lead': 'Ein unabhängiges Herzensprojekt eines einzigen Entwicklers, das sich anfühlt wie ein großes Sci-fi-Abenteuer.',
       'features.f1title': 'Rasantes 3D-Kampfsystem',
       'features.f1desc': 'Kämpfe dich in flotten Action-Gefechten durch die Missionen — zu Fuß und in der Luft.',
       'features.f2title': 'Futuristische Flugzeuge steuern',
@@ -199,9 +199,9 @@
       'features.f4title': 'Eine Welt in Gefahr',
       'features.f4desc': 'Deine Missionen führen dich in Mega-Cities, aufs offene Meer, in verlassene Militärbasen und bis in den Orbit.',
       'features.f5title': 'Mehrere Enden',
-      'features.f5desc': 'Die Geschichte rund um C.O.R.E. kann auf mehr als eine Weise enden.',
+      'features.f5desc': 'Die C.O.R.E.-Story kann auf mehr als eine Weise enden.',
       'features.f6title': 'Komplette Inhalte',
-      'features.f6desc': 'Die itch.io-Version enthält die Type-X-Expansion, mit zusätzlicher Story und neuen Leveln ohne Aufpreis.',
+      'features.f6desc': 'Die itch.io-Version enthält die Type-X-Expansion: zusätzliche Story und neue Level ohne Aufpreis.',
 
       'story.kicker': 'Das Jahr 2053',
       'story.title': 'Die letzte Hoffnung der Menschheit',
@@ -251,7 +251,7 @@
 
       'about.kicker': 'Der Entwickler',
       'about.title': 'Über Gernot Lepschy',
-      'about.p1': 'Project CORE ist ein unabhängig entwickeltes Passion-Projekt vom Programmierer, Level-Designer und Autor Gernot Lepschy. Entwickelt mit Unity und Blender, soll es erfahrenen Spielern und Neueinsteigern gleichermaßen ein frisches Erlebnis bieten.',
+      'about.p1': 'Project CORE ist ein unabhängiges Passion-Projekt von Programmierer, Level-Designer und Autor Gernot Lepschy. Mit Unity und Blender entwickelt, soll es erfahrenen Spielern und Neueinsteigern ein frisches Erlebnis bieten.',
       'about.p2': 'Von Level-Design und Programmierung bis hin zu Story und Grafik: Project CORE entsteht aus einer Hand, unter dem Namen G.L. Studios.',
       'about.portfolioBtn': 'Zu meinem Portfolio',
       'about.ytBtn': 'YouTube-Kanal',
