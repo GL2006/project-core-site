@@ -31,6 +31,7 @@
       'nav.get': 'Get the game',
       'nav.posters': 'Posters',
       'nav.about': 'About',
+      'nav.contact': 'Contact',
 
       'hero.kicker': 'Sci-fi Action Adventure · Windows PC',
       'hero.tagline': 'You are humanity\u2019s last hope. Pilot a futuristic aircraft, face the mysterious \u201cEnemys\u201d and uncover the truth behind the incident that almost destroyed the world.',
@@ -156,6 +157,7 @@
       'nav.get': 'Kaufen',
       'nav.posters': 'Poster',
       'nav.about': 'Über',
+      'nav.contact': 'Kontakt',
 
       'hero.kicker': 'Sci-fi-Action-Abenteuer · Windows-PC',
       'hero.tagline': 'Du bist die letzte Hoffnung der Menschheit. Steuere futuristische Flugzeuge, stelle dich den mysteriösen \u201eEnemys\u201c und lüfte das Geheimnis hinter dem Vorfall, der die Welt beinahe zerstört hätte.',
