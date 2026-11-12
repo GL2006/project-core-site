@@ -23,6 +23,7 @@
       'a11y.menu': 'Menu',
       'a11y.top': 'Back to top',
       'a11y.viewer': 'Image viewer',
+      'a11y.scroll': 'Scroll to trailers',
 
       'nav.trailers': 'Trailers',
       'nav.features': 'Features',
@@ -149,6 +150,7 @@
       'a11y.menu': 'Menü',
       'a11y.top': 'Nach oben',
       'a11y.viewer': 'Bildansicht',
+      'a11y.scroll': 'Zu den Trailern scrollen',
 
       'nav.trailers': 'Trailer',
       'nav.features': 'Features',

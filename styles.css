@@ -368,6 +368,37 @@ body.nav-open .nav-toggle span:nth-child(3) { transform: translateY(-7px) rotate
   color: #5b6673;
 }
 
+/* Scroll cue: signals there is more content below the hero */
+.scroll-cue {
+  position: absolute;
+  left: 50%;
+  bottom: 1.1rem;
+  z-index: 2;
+  width: 28px;
+  height: 44px;
+  transform: translateX(-50%);
+  border: 1px solid var(--border-strong);
+  border-radius: 16px;
+  background: rgba(13, 17, 23, 0.5);
+}
+.scroll-cue:hover { border-color: var(--accent); }
+.scroll-cue span {
+  position: absolute;
+  top: 9px;
+  left: 50%;
+  width: 4px;
+  height: 8px;
+  margin-left: -2px;
+  border-radius: 2px;
+  background: var(--accent);
+  animation: scroll-cue 1.8s ease-in-out infinite;
+}
+@keyframes scroll-cue {
+  0%   { opacity: 0; transform: translateY(0); }
+  30%  { opacity: 1; }
+  100% { opacity: 0; transform: translateY(14px); }
+}
+
 /* ---------- Trailers ---------- */
 .video-featured { max-width: 960px; margin: 0 auto 1.1rem; }
 
@@ -856,6 +887,7 @@ body.nav-open .nav-toggle span:nth-child(3) { transform: translateY(-7px) rotate
   body { font-size: 15.5px; }
   .hero-chips { gap: 0.3rem 0.9rem; }
   .hero-chips li + li::before { content: none; }
+  .scroll-cue { display: none; }
   .gallery-grid { grid-template-columns: 1fr; }
   .gallery-item.wide { grid-column: auto; }
   .feature-grid { grid-template-columns: 1fr; }
